@@ -1,0 +1,2 @@
+PRIVAT_KEY_ONE = '8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8'
+PRIVAT_KEY_TWO = '8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c1c1c1c1c1c1c1c1'
